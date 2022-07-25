@@ -1,6 +1,10 @@
 
 Hi 👋, I'm Michal,
-front-end developer 
+
+
+![gifgithub1](https://user-images.githubusercontent.com/86293253/180759892-9f1261a0-581d-459c-ac83-75954ca58c69.gif)
+
+
 
 ## 💻 Tech stack:
 
